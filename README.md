@@ -6,6 +6,8 @@
 
 ## Installation
 
+Ensure you have Microsoft Visual C++ 14 or greater, if not get it with Microsoft Build Tools from https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
 1. Clone or download the repository.
 2. Install dependencies using pip:
 

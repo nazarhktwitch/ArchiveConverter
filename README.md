@@ -10,7 +10,7 @@ You need to install components:
 
 Desktop development with C++
 
-MSVC v142 - VS 2019 C++ x64/x86 build tools (All analog for your visual studio version)
+MSVC v142 - VS 2019 C++ x64/x86 build tools (Or analog for your visual studio version)
 
 Windows 10 SDK
 

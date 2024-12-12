@@ -14,7 +14,7 @@ MSVC v142 - VS 2019 C++ x64/x86 build tools (Or analog for your visual studio ve
 
 Windows 10 SDK
 
-If you haveproblems with installing libraries try to use in cmd pip install --upgrade setuptools wheel
+And restart your pc
 
 1. Clone or download the repository.
 2. Install dependencies using pip:

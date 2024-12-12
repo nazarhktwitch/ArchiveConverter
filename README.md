@@ -7,10 +7,13 @@
 ## Installation
 
 Ensure you have Microsoft Visual C++ 14 or greater, if not get it with Microsoft Build Tools from https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
 You need to install components:
 
-Desktop development with C++:
-MSVC v142 - VS 2019 C++ x64/x86 build tools (или аналогичная версия для вашей версии Visual Studio)
+Desktop development with C++
+
+MSVC v142 - VS 2019 C++ x64/x86 build tools (All analog for your visual studio version)
+
 Windows 10 SDK
 
 If you haveproblems with installing libraries try to use in cmd pip install --upgrade setuptools wheel
